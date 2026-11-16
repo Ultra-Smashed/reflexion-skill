@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "reflexion-skill",
+  "description": "Nachbesprechung nach jeder Aufgabe: Lektionen festhalten, Regeldateien verbessern, denselben Fehler nicht zweimal machen.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "reflexion-skill",
+      "description": "Der Skill /reflexion hält nach einer Aufgabe eine Nachbesprechung mit vier Fragen, zieht prüfbare Lektionen, schlägt Änderungen an den Dateien vor, die der Agent beim nächsten Mal lädt, und schreibt alles mit Dublettenprüfung in LESSONS.md.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

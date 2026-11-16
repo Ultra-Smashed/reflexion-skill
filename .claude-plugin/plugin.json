@@ -1,0 +1,23 @@
+{
+  "name": "reflexion-skill",
+  "description": "Nachbesprechung nach jeder Aufgabe mit /reflexion: vier Fragen nach dem After Action Review, prüfbare Lektionen, Fix-Plan für CLAUDE.md, AGENTS.md, Cursor-Regeln und Skills mit Freigabe, und ein LESSONS.md-Logbuch mit Dublettenprüfung.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "homepage": "https://thanisch.co",
+  "repository": "https://github.com/Ultra-Smashed/reflexion-skill",
+  "license": "MIT",
+  "keywords": [
+    "reflexion",
+    "after-action-review",
+    "nachbesprechung",
+    "lessons-learned",
+    "retrospektive",
+    "agent-memory",
+    "claude-md",
+    "deutsch",
+    "claude-skills"
+  ]
+}
